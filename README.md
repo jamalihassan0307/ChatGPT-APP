@@ -135,20 +135,6 @@ lib/
 └── main.dart
 ```
 
-## 📦 Installation
-
-1. Clone the repository:
-
-bash
-git clone https://github.com/jamalihassan0307/Flutter-ChatGPT-Text-and-image-generater.git
-bash
-flutter pub get
-
-2. Run the app:
-
-bash
-flutter run
-
 ## 👨‍💻 Developer
 
 Developed by [Jam Ali Hassan](https://github.com/jamalihassan0307)
